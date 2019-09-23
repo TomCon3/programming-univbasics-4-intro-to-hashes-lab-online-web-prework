@@ -3,7 +3,8 @@ def new_hash
 end
 
 def my_hash = {
-  :item => "banana"
+  :item => "banana",
+  :price => "$1.00"
 }
   # return a valid hash with any key/value pair of your choice
 end
