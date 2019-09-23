@@ -4,7 +4,7 @@ def new_hash {
 end
 
 def my_hash 
-  my_hash= {
+  my_hash = {
   :item => "banana",
   :price => "$1.00"
 }
